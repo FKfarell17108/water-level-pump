@@ -1,4 +1,4 @@
-# water level pump - Arduino Uno Module with Arduino IDE/Wokwi Simulator
+# Water Level Pump - Arduino Uno Module with Arduino IDE/Wokwi Simulator
 
 ## Descriptions
 
